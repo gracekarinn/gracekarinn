@@ -38,4 +38,4 @@ Feel free to connect with me if you share similar interests or if you have any q
 #
 
 ### 📊 Stats
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gracekarinn&layout=compact" alt="Top Langs" width="40%" style="padding-right:10px;" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gracekarinn&size_weight=0.5&count_weight=0.5)

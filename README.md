@@ -38,6 +38,4 @@ Feel free to connect with me if you share similar interests or if you have any q
 #
 
 ### 📊 Stats
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=gracekarinn" alt="Grace's GitHub stats" width="45%" style="padding-right:10px;" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gracekarinn&layout=compact" alt="Top Langs" width="40%" style="padding-right:10px;" />
-<br />

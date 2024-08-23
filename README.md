@@ -1,6 +1,6 @@
 ## Henlo, everyone!🐼
 
-Hi there! My name is **Grace Karin**, but you can call me **Grace** or **Iyen**. I'm a computer science student at University of Indonesia
+My name is **Grace Karin**, but you can call me **Grace** or **Iyen**. I'm a computer science student at University of Indonesia
 
 I am passionate about:
 - **Data Science**
